@@ -1,46 +1,38 @@
-# Clone-Movie-Stream-UI
+# Clone-Movie-Stream-UI 🎬
 
-A responsive movie streaming service UI built **for educational purposes**.  
-This project is inspired by popular streaming platforms to demonstrate frontend development skills.
+A responsive **movie streaming service UI** built purely with **HTML and CSS** for educational purposes.  
+This project is inspired by popular streaming platforms to showcase frontend development skills.
 
 ---
 
 ## ⚠️ Disclaimer
 This project is **for learning and showcasing skills only**.  
-It is not affiliated with, endorsed, or sponsored by Netflix, Inc.  
-All logos and images are custom placeholders or free resources.
+It is **not affiliated with, endorsed, or sponsored by Netflix, Inc.**  
+All logos, banners, and images are custom placeholders or free resources.
 
 ---
 
 ## Features
 - Responsive movie grid layout
 - Featured banner section
-- Horizontal scrollable carousels for movie categories
 - Hover animations and interactive UI elements
-- Fully built with **HTML, CSS, and JavaScript**
+- Fully built with **HTML and CSS**
+- Easy to customize and expand for practice
 
 ---
 
 ## Skills Demonstrated
-- Responsive design using Flexbox & CSS Grid
-- DOM manipulation and event handling with JavaScript
-- Carousel implementation
-- UI/UX design and layout structuring
-- Project organization for maintainable code
+- Responsive web design using **Flexbox & CSS Grid**
+- **CSS animations** and hover effects
+- UI/UX layout design
+- Clean project structure for frontend development
 
 ---
 
 ## Tech Stack
 - HTML5
 - CSS3
-- JavaScript (ES6+)
 
 ---
-
-## Screenshots
-![Screenshot](demo.png)  <!-- Replace with your screenshot -->
-
----
-
 ## License
-MIT License
+This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
